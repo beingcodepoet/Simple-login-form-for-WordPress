@@ -8,6 +8,6 @@ Installation is quite simple. Simply download the file named as <b>new-login-pag
 (YOUR_THEME_NAME is the name of the theme you use)
 
 ## How to get the form on the frontend?
-Simple! Create a page named as Login and select the Template as <b>Simple login page Template</b>
-<img src="">
+Simple! Create a page named as Login and select the Template as <b>Simple login page Template</b><br />
+<img src="https://raw.githubusercontent.com/beingcodepoet/Simple-login-form-for-WordPress/master/img/how-to-install-simple-frontend-login-template.gif">
 #### Thank you!
